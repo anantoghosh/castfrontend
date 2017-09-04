@@ -1,0 +1,13 @@
+.button {
+  font-weight: 600;
+  color: #0366d6;
+  white-space: nowrap;
+  vertical-align: middle;
+  padding: 7px 12px;
+  margin-left: -1px;
+  border: 1px solid #e1e4e8;
+}
+
+.input {
+  font-size: 1em;
+}

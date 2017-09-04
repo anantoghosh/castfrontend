@@ -1,0 +1,13 @@
+.user-pic {
+  width: 100%
+}
+
+.pic-container {
+  flex-grow: 1
+}
+
+.user-info {
+  flex-basis: 300px;
+  flex-grow: 1;
+  padding: 0 1em;
+}

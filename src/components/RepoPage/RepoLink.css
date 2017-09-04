@@ -1,0 +1,17 @@
+.repo {
+  box-sizing: border-box;
+  width: 70%;
+  word-break: break-all;
+  padding-right: 1em;
+}
+
+.stats {
+  box-sizing: border-box;
+  padding-left: 10%;
+  border-left: 1px solid #999;
+  width: 30%;
+}
+
+.icon {
+  margin-right: 4px;
+}
