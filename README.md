@@ -9,10 +9,9 @@ Working version deployed here [https://casthackerfront.appspot.com/](https://cas
 npm install
 npm start
 ```
+then browse to localhost:3000.
   
 ## Building
 ```
 npm run build
 ```
-
-then browse to localhost:3000.
