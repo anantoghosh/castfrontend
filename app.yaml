@@ -11,8 +11,6 @@ skip_files:
 
 
 handlers:
-- url: /.*
-  static_dir: dist/
 
 - url: /.*
   script: _go_app
